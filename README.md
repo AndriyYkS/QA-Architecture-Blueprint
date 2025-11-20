@@ -1,0 +1,1 @@
+# QA-Architecture-Blueprint
